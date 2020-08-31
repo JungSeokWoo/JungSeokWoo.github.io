@@ -5,10 +5,26 @@
     Loved physics.
 
 - layout: left
-  name: Korea Advanced Institute of Science and Technology (KAIST)
+  name: KAIST
   dates: 2010 Feb - 2015 Feb
-  qualification: Bachelor's degree. Aerospace engineering
+  qualification: Bachelor's degree. Aerospace engineering department.
   quote: >
-    Loved designing aircraft (participated AIAA aircraft design competioin) & built rocket(playload : KOMPSAT-3) simulation & Programming self-study
+    Studied about aircraft desigin, rocket simulation, kinematics.
+  description: |
+    Programming self-study. Became internested in AI by game auto macro.
+  
+    
+- layout: left
+  name: KAIST
+  dates: 2015 Mar - 2017 Aug
+  qualification: Master's degree. Aerospace engineering department.
+  quote: >
+    Perception system for autonomous vehicle & robot.
+  description: |
+    Designed & developed perception system of KAIST Autonomous vehicle 'Eurecar-AI'. Developed perception algorithms for drones & mobile robot.
+    
+    
+  
+  
     
     
