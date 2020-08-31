@@ -16,7 +16,7 @@ linkedin_username: seokwoo-jung
 # about_title: About Me
 about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a research engineer at LG Electronics CTO Division. I am currently working on a AI aided vehicle system at automotive & business solution center(A&B Center). My interests are perception algorithms and optimization on edge device for intelligent vehicle. 
+  I am a research engineer at LG Electronics CTO Division. I am currently working on a AI aided vehicle system at automotive & business solution center. My interests are perception algorithms and optimization on edge device for intelligent vehicle. 
 
   I am most skilled in: <mark>Deep Learning</mark> and <mark>Computer Vision</mark> for <mark>Autonomous driving</mark>.
   
