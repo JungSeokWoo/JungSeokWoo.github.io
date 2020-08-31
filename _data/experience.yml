@@ -5,6 +5,8 @@
   dates: 2017 Sep - 2017 Nov
   quote: >
    Developed perception system of autonomous vehicle 'Eurecar-AI'.
+  description: | # this will include new lines to allow paragraphs
+    Designed & developed perception system of KAIST Autonomous vehicle ‘Eurecar-AI’. Developed perception algorithms for drones & mobile robot.
 
 - layout: left
   company: LG Electronics
