@@ -7,4 +7,4 @@
     Lane detection is an essential component for autonomous driving. We propose lane detection method based on instance segmentation approach. Our algorithm achieves global top-level accuracy and real-time performance on mobile platform.
     Our paper has been accepted in [ECCV 2020 Workshop on Perception for Autonomous Driving](https://sites.google.com/view/pad2020).        
     
-    Paper: [Bold]Seokwoo Jung[/Bold], Sungha Choi, Mohammad A. Khan, Jaegul Choo, "Towards Lightweight Lane Detection by Optimizing Spatial Embedding" [link](https://arxiv.org/abs/2008.08311)
+    * Paper: [Bold]Seokwoo Jung[/Bold], Sungha Choi, Mohammad A. Khan, Jaegul Choo, "Towards Lightweight Lane Detection by Optimizing Spatial Embedding" [link](https://arxiv.org/abs/2008.08311)
