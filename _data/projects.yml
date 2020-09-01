@@ -1,10 +1,11 @@
 - layout: top-middle
-  name: (2020 LGE) Preception algorithms for automotive application
+  name: Perception for autonomous driving & AR navigation
   link: https://www.youtube.com/watch?v=2lrtB-NBw2E
   quote: >
-    Desinged state-of-the-art lane detection for Autonomous driving & AR Navigation.
+    (2020 @ LGE) Developed state-of-the-art lane detection for Autonomous driving & AR Navigation.
   description: | # this will include new lines to allow paragraphs
-    Lane detection is an essential component for autonomous driving. We propose lane detection method based on instance segmentation approach. Our algorithm achieves global top-level accuracy and real-time performance on mobile platform.
-    Our paper has been accepted in [ECCV 2020 Workshop on Perception for Autonomous Driving](https://sites.google.com/view/pad2020).        
+    We proposed fast and robust lane detection method based on an instance segmentation approach. Our algorithm achieves global top-level accuracy and real-time performance on mobile platform.
+    Our paper has been accepted in [ECCV 2020 Workshop on Perception for Autonomous Driving](https://sites.google.com/view/pad2020).
+    We implemented GPU/DSP/NPU based DNN runtime application by using <mark>Android</mark>, <mark>C++ JNI</mark>, <mark>OpenCL<mark> and Snapdragon Neural Processing Engine SDK(<mark>SNPE</mark>).
     
-    * Paper: **Seokwoo Jung**, Sungha Choi, Mohammad A. Khan, Jaegul Choo, "Towards Lightweight Lane Detection by Optimizing Spatial Embedding".  [link](https://arxiv.org/abs/2008.08311)
+    * Paper: **Seokwoo Jung**, Sungha Choi, Mohammad A. Khan, Jaegul Choo, "Towards Lightweight Lane Detection by Optimizing Spatial Embedding". arxiv [link](https://arxiv.org/abs/2008.08311)
