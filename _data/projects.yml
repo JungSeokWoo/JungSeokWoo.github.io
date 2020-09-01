@@ -1,6 +1,5 @@
 - layout: top-middle
   name: [LGE] Core preception algorithm for automotive application @ mobile GPU/DSP/NPU
-  link: https://sproogen.github.io/modern-resume-theme
   quote: >
     Desinged state-of-the-art lane detection for Autonomous driving & AR Navigation.
   description: | # this will include new lines to allow paragraphs
