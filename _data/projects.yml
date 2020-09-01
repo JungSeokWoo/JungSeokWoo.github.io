@@ -5,6 +5,7 @@
     Desinged state-of-the-art lane detection for Autonomous driving & AR Navigation.
   description: | # this will include new lines to allow paragraphs
     Lane detection is an essential component for autonomous driving. Our algorithm achieves global top-level accuracy and real-time performance on mobile platform.
-    Our paper has been accepted in ECCV 2020 Workshop on Perception for Autonomous Driving(https://sites.google.com/view/pad2020).
+    Our paper has been accepted in [ECCV 2020 Workshop on Perception for Autonomous Driving](https://sites.google.com/view/pad2020).
+    [Paper link](https://arxiv.org/abs/2008.08311)
     
     
