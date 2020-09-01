@@ -2,46 +2,46 @@
   name: Jeju Science high School
   dates: 2008 Mar - 2010 Feb
   quote: >
-    Loved physics.
+    Science high school early graduation
   description: |
-    Early graduation.
+    Loved physics.
   
 - layout: left
   name: KAIST
   dates: 2010 Feb - 2015 Feb
-  qualification: Bachelor's degree. Aerospace engineering department.
+  qualification: Bachelor's degree
   quote: >
-    Studied about aircraft desigin, rocket simulation and physics.
+    Aerospace engineering department
   description: |
-    Programming self-study. Became internested in AI by game auto macro.
+    Self-studied programming. Became internested in AI.
     
 - layout: left
   name: UCLA
   dates: 2011 Jun - 2011 Aug
   qualification: Summer session
   quote: >
-    Summer session
+    Summer session at mathmatics department
   description: |
-    Studied differential equation & algebra at mathmatics department.
+    Studied differential equation & algebra.
     
 - layout: left
   name: NYU
   dates: 2013 Jul - 2013 Dec
   qualification: English language institute
   quote: >
-    English language institute
+    Intensive english program
   description: |
-    Studied english & enjoyed NYC.
+    Studied english, enjoyed NYC.
   
     
 - layout: left
   name: KAIST
   dates: 2015 Mar - 2017 Aug
-  qualification: Master's degree. Aerospace engineering department.
+  qualification: Master's degree
   quote: >
-    Perception system for autonomous vehicle & robot.
+    Unmanned System Research Group @ Aerospace engineering department
   description: |
-    Designed & developed perception system of KAIST Autonomous vehicle 'Eurecar-AI'. Developed perception algorithms for drones & mobile robot.
+    Designed & developed perception system of KAIST autonomous vehicle 'Eurecar'. Developed perception algorithms for drones & mobile robots.
     
     
   
