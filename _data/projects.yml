@@ -4,6 +4,8 @@
   quote: >
     (2020 @ LGE) Developed state-of-the-art lane detection for Autonomous driving & AR Navigation.
   description: | # this will include new lines to allow paragraphs
+    - ![Image Alt 텍스트](/images/ld_highway.JPG)
+    
     We proposed fast and robust lane detection method based on an instance segmentation approach. Our algorithm achieved global rank 3 on the Tusimple Lane Detection Benchmark([link](https://paperswithcode.com/sota/lane-detection-on-tusimple)) and real-time performance on mobile platform.
     Our paper has been accepted in [ECCV 2020 Workshop on Perception for Autonomous Driving](https://sites.google.com/view/pad2020).
     We implemented GPU/DSP/NPU runtime based DNN application by using <mark>Android</mark>, <mark>C++JNI</mark>, <mark>OpenCL</mark> and Snapdragon Neural Processing Engine SDK(<mark>SNPE</mark>).
