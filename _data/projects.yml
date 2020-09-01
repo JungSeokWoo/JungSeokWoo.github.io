@@ -1,6 +1,6 @@
 - layout: top-middle
-  name: [LGE] Automotive core preception algorithm @ mobile GPU/DSP/NPU
-  youtube link : https://youtu.be/2lrtB-NBw2E
+  name: [LGE] Core preception algorithm for automotive application @ mobile GPU/DSP/NPU
+  link : https://youtu.be/2lrtB-NBw2E
   quote: >
     Desinged state-of-the-art lane detection for Autonomous driving & AR Navigation.
   description: | # this will include new lines to allow paragraphs
