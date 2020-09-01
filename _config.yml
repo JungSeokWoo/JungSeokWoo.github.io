@@ -21,7 +21,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Deep Learning</mark> and <mark>Computer Vision</mark> for <mark>Autonomous driving</mark>.
   
   
-  Programming Language & Framework : <mark>C/C++</mark> <mark>Python</mark> <mark>Tensorflow</mark> <mark>Pytorch</mark> <mark>Caffe</mark> <mark>Tensor RT</mark> <mark>SNPE</mark> etc.
+  Programming Language & Framework : <mark>C/C++</mark> <mark>Python</mark> <mark>Tensorflow</mark> <mark>Pytorch</mark> <mark>Caffe</mark> <mark>Tensor RT</mark> <mark>SNPE</mark> <mark>CUDA</mark> <mark>OpenCL</mark>
 
 # Projects Section
 # projects_title: Projects
