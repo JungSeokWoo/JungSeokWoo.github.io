@@ -1,8 +1,10 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: [LGE] Automotive core preception algorithm @ mobile GPU/DSP/NPU
+  youtube link : https://youtu.be/2lrtB-NBw2E
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Desinged state-of-the-art lane detection for Autonomous driving & AR Navigation.
   description: | # this will include new lines to allow paragraphs
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/2lrtB-NBw2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    Lane detection is an essential component for autonomous driving. Our algorithm achieves global top-level accuracy and real-time performance on mobile platform.
+    Our paper has been accepted in ECCV 2020 Workshop on Perception for Autonomous Driving(https://sites.google.com/view/pad2020).
+    
+    
