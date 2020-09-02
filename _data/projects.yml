@@ -42,7 +42,7 @@
     </div>
     
     I was a lead perception engieer of 'Eurecar', a representative self-driving car of KAIST.
-    I designed a recognition system using cameras and lidars.
+    I designed a vision system using cameras and lidars.
     We demonstrated an advanced autonomous driving by applying the SOTA deep learning.
     In more detail, I used semantic segmentation and object detection to recognize the driving environment, and convert this information into vehicle coordinates to be used for autonomous driving.
     In addition to research on perception, I also participated in the development of Eurecar's end-to-end self-driving research.
