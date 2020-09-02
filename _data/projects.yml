@@ -26,7 +26,7 @@
     We developed an autonomous vehicle capable of driving in an urban environment.
     I developed lane detection, freespace detection and occupancy grid mapping <mark>ROS</mark> packages, and used several cameras and lidars by sensor fusion.
     I designed a single DNN network that is jointly trained on independent datasets, and accelerated it using <mark>TensorRT</mark> and <mark>CUDA</mark> on the NVIDIA Platform.
-    During this period, I have grown my ability to implement various deep learning papers in various frameworks (<mark>Caffe</mark>, <mark>TensorFlow</mark>, <mark>Pytorch</mark>).
+    During this period, I have grown my ability to implement the SOTA deep learning papers in various frameworks (<mark>Caffe</mark>, <mark>TensorFlow</mark>, <mark>Pytorch</mark>).
     
     * Promotional video : [link](https://www.youtube.com/watch?v=Ao_2IXEt6ac)
     * News & Press : [link1](https://biz.chosun.com/site/data/html_dir/2019/10/10/2019101001733.html), [link2](https://www.youtube.com/watch?v=hLkUf_cIHDs)
