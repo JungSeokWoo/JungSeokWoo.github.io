@@ -47,9 +47,10 @@
     During this period, I have grown my ability to implement various deep learning papers in various frameworks (<mark>Caffe</mark>, <mark>TensorFlow</mark>, <mark>Pytorch</mark>).
     
     + Papers:
-      - 123
-      - 456
-      - 789
+      - **Seokwoo Jung**, "Development of driving environment recognition system for autonomous vehicle using deep learning based image processing", KAIST Master thesis, 2017
+      - Unghui Lee, Jiwon Jung, **Seokwoo Jung**, David Hyunchul Shim, "Development of a self-driving car that can handle the adverse weather", IJAT, 2018
+      - Chanyoung Jung, **Seokwoo Jung**, David Hyunchul Shim, "A Hybrid Control Architecture For Autonomous Driving In Urban Environment", ICARCV, 2018
+      - **Seokwoo Jung**, Unghui Lee, Jiwon Jung, David Hyunchul Shim, "Real-time Traffic Sign Recognition system with deep convolutional neural network", URAI, 2018
       
     * News & Press : [link1](https://biz.chosun.com/site/data/html_dir/2019/10/10/2019101001733.html), [link2](https://www.youtube.com/watch?v=hLkUf_cIHDs)
     * I presented our self-driving car research achievements at [NVIDIA DeepLearning Day 2017](https://www.nvidia.com/ko-kr/deep-learning-day/agenda/).
