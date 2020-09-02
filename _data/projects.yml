@@ -17,7 +17,7 @@
 - layout: top-middle
   name: Autonomous driving in urban
   quote: >
-    (2018~2019 @ LGE) Developed perception algorithms for multi-sensors.
+    (2018~2019 @ LGE) Developed perception algorithms by using multiple sensors.
   description: | # this will include new lines to allow paragraphst
     <div align="center">
       <img src="/images/lg_autonomous_vehicle.jpg" width="60%">
@@ -33,9 +33,9 @@
     
     
 - layout: top-middle
-  name: EureCar : The Self-driving Car capable of urban driving and racing
+  name: EureCar : The self-driving Car capable of urban driving and racing
   quote: >
-    (2015~2017 @ LGE) Developed deep learning based perception system and end-to-end driving 
+    (2015~2017 @ KAIST) Developed deep learning based perception system and end-to-end driving 
   description: | # this will include new lines to allow paragraphst
     <div align="center">
       <img src="/images/lg_autonomous_vehicle.jpg" width="60%">
