@@ -41,10 +41,12 @@
       <img src="/images/eurecar.jpg" width="80%">
     </div>
     
-    We developed an autonomous vehicle capable of driving in an urban environment.
-    I developed lane detection, freespace detection and occupancy grid mapping <mark>ROS</mark> packages, and used several cameras and lidars by sensor fusion.
-    I designed a single DNN network that is jointly trained on independent datasets, and accelerated it using <mark>TensorRT</mark> and <mark>CUDA</mark> on the NVIDIA Platform.
-    During this period, I have grown my ability to implement various deep learning papers in various frameworks (<mark>Caffe</mark>, <mark>TensorFlow</mark>, <mark>Pytorch</mark>).
+    I was a lead perception engineer of 'Eurecar', an autonomous vehicle representing KAIST.
+    I designed a recognition system using various types of cameras and lidars.
+    By applying various computer vision and deep learning algorithms to autonomous vehicles, at the time, 
+    it was possible to demonstrate a very advanced level of autonomous driving than other universities.
+    Also, I was the 2nd contributor of End-to-End driving that our team was working on experimentally at the time.
+    During these studies, the application was implemented using the <mark>Caffe</mark> framework on the NVIDIA Platform (Gerforce series, <mark>DrivePX2</mark>, <mark>Jetson</mark> Series).
     
     + Papers :
       - **Seokwoo Jung**, "Development of driving environment recognition system for autonomous vehicle using deep learning based image processing", KAIST Master thesis, 2017
@@ -60,7 +62,7 @@
       - Autonomous driving in racing circuit [link](https://youtu.be/AqjSq4jFA-M)
       - Autonomous parking [link](https://youtu.be/K9iBUegDhdo)
       - End-to-End driving [link](https://youtu.be/dq3yNzIHiCc)
-    * News & Press : [link1](https://biz.chosun.com/site/data/html_dir/2019/10/10/2019101001733.html), [link2](https://www.youtube.com/watch?v=hLkUf_cIHDs)
+    * News & Press : [link1](http://news.kbs.co.kr/news/view.do?ncd=3369300), [link2(Discovery channel canada)](https://ko-kr.facebook.com/KAIST.official/videos/1540370752676543/)
     * I presented our self-driving car research achievements at [NVIDIA DeepLearning Day 2017](https://www.nvidia.com/ko-kr/deep-learning-day/agenda/).
     <div align="center">
       <img src="/images/nvidia_deeplearning_day2017.png" width="60%">
