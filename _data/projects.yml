@@ -47,7 +47,6 @@
     it was possible to demonstrate a very advanced level of autonomous driving than other universities.
     Also, I was the 2nd contributor of End-to-End driving that our team was working on experimentally at the time.
     During these deep learning studies, the application was implemented using the <mark>Caffe</mark> framework on the NVIDIA Platform (Gerforce series, <mark>DrivePX2</mark>, <mark>Jetson</mark> Series).
-    I was able to gain experience in an optimized pipeline for designing recognition system through various sensor and platform experiences.
         
     + Papers :
       - **Seokwoo Jung**, "Development of driving environment recognition system for autonomous vehicle using deep learning based image processing", KAIST Master thesis, 2017
