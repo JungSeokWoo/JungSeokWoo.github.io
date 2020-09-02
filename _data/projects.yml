@@ -79,7 +79,7 @@
     </div>
     
     I was a lead perception engineer of KAIST team on MBZIRC 2017 Challenge 2. The challenge requires an UGV to locate and reach a panel, and physically operate a valve stem on the panel.
-    I developed self-navigating algorithm using lidars, and also developed visual servoing & valve searching algorithms by using DNN object detection.
+    I developed self-navigating algorithm using lidars, and also developed visual servoing & wrench searching algorithms by using DNN object detection.
     In MBZIRC 2017, 45 finalists were chosen from over 316 teams from 47 countries. Our team ranked fourth in total score in the challenge 2, and successfully completed all UGV missions in the grand challenge.
     <div align="center">
       <img src="/images/challenge2_score.jpg" width="50%">
