@@ -17,14 +17,14 @@
 - layout: top-middle
   name: Autonomous driving in urban
   quote: >
-    (2018~2019 @ LGE) Developed free-space detection, occupacny grid mapping and lane detection
+    (2018~2019 @ LGE) Developed perception algorithms for multi-sensors(Cameras, Lidars).
   description: | # this will include new lines to allow paragraphst
     <div align="center">
       <img src="/images/lg_autonomous_vehicle.jpg" width="60%">
     </div>
     
-    We proposed fast and robust lane detection method based on an instance segmentation approach. Our algorithm achieved global rank 3 on the Tusimple Lane Detection Benchmark([link](https://paperswithcode.com/sota/lane-detection-on-tusimple)) and real-time performance on mobile platform.
-    Our paper has been accepted in [ECCV 2020 Workshop on Perception for Autonomous Driving](https://sites.google.com/view/pad2020).
-    We implemented GPU/DSP/NPU runtime based DNN application by using <mark>Android</mark>, <mark>C++JNI</mark>, <mark>OpenCL</mark> and Snapdragon Neural Processing Engine SDK(<mark>SNPE</mark>).
+    We developed an autonomous vehicle capable of driving in an urban environment.
+    I developed lane detection, free space detection, and occupancy grid mapping, and performed sensor fusion through multiple cameras and lidars.
+    I designed a single DNN network that is jointly trained on independent datasets, and accelerated it using <mark>TensorRT</mark> and <mark>CUDA</mark> on the NVIDIA Platform (Desktop GPU, Jetson Xavier).
     
     * Promotional video : [link](https://www.youtube.com/watch?v=Ao_2IXEt6ac)
