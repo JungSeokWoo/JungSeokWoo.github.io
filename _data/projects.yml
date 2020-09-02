@@ -33,7 +33,7 @@
     
     
 - layout: top-middle
-  name: EureCar : The self-driving Car capable of urban driving and racing
+  name: EureCar":" The self-driving Car capable of urban driving and racing
   quote: >
     (2015~2017 @ KAIST) Developed deep learning based perception system and end-to-end driving 
   description: | # this will include new lines to allow paragraphst
