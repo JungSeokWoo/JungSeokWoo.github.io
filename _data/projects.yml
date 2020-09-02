@@ -16,8 +16,10 @@
   name: Autonomous driving in urban
   quote: >
     (2018~2019 @ LGE) Developed free-space detection, occupacny grid mapping and lane detection
-  description: | # this will include new lines to allow paragraphs    
-    ![Image Alt](/images/lg_autonomous_vehicle.jpg)
+  description: | # this will include new lines to allow paragraphs
+    <p align="center"">
+    <img src="/images/lg_autonomous_vehicle.jpg" width="100%" />
+    </p>
     
     We proposed fast and robust lane detection method based on an instance segmentation approach. Our algorithm achieved global rank 3 on the Tusimple Lane Detection Benchmark([link](https://paperswithcode.com/sota/lane-detection-on-tusimple)) and real-time performance on mobile platform.
     Our paper has been accepted in [ECCV 2020 Workshop on Perception for Autonomous Driving](https://sites.google.com/view/pad2020).
