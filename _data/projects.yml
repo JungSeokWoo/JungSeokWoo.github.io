@@ -42,12 +42,12 @@
     </div>
     
     I was a lead perception engineer of 'Eurecar', an autonomous vehicle representing KAIST.
-    I designed a recognition system using various types of cameras and lidars.
-    By applying various computer vision and deep learning algorithms to autonomous vehicles, at the time, 
+    I designed a recognition system using of cameras and lidars.
+    By applying SOTA deep learning algorithms to autonomous vehicles, at the time, 
     it was possible to demonstrate a very advanced level of autonomous driving than other universities.
     Also, I was the 2nd contributor of End-to-End driving that our team was working on experimentally at the time.
     During these studies, the application was implemented using the <mark>Caffe</mark> framework on the NVIDIA Platform (Gerforce series, <mark>DrivePX2</mark>, <mark>Jetson</mark> Series).
-    
+        
     + Papers :
       - **Seokwoo Jung**, "Development of driving environment recognition system for autonomous vehicle using deep learning based image processing", KAIST Master thesis, 2017
       - Unghui Lee, Jiwon Jung, **Seokwoo Jung**, David Hyunchul Shim, "Development of a self-driving car that can handle the adverse weather", IJAT, 2018
