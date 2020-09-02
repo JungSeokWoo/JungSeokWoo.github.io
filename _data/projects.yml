@@ -12,7 +12,7 @@
     I implemented GPU/DSP/NPU runtime based DNN application by using <mark>Android</mark>, <mark>C++JNI</mark>, <mark>OpenCL</mark> and Snapdragon Neural Processing Engine SDK(<mark>SNPE</mark>).
     
     * Paper : **Seokwoo Jung**, Sungha Choi, Mohammad A. Khan, Jaegul Choo, "Towards Lightweight Lane Detection by Optimizing Spatial Embedding". arxiv [link](https://arxiv.org/abs/2008.08311)
-    * 3-minute presentation video : [link](https://www.youtube.com/watch?v=2lrtB-NBw2E)
+    * 3-min presentation video : [link](https://www.youtube.com/watch?v=2lrtB-NBw2E)
 
 - layout: top-middle
   name: Autonomous driving in urban
@@ -79,7 +79,12 @@
     </div>
     
     I was a lead perception engineer of KAIST team on MBZIRC 2017 Challenge 2.
-        
+    In MBZIRC 2017, 45 finalists were chosen from over 316 teams from 47 countries. Our team ranked fourth in total score in challenge 2, and successfully completed all UGV missions in grand challenge.
+    <div align="center">
+      <img src="/images/challenge2_score.jpg" width="60%">
+    </div>
+    
     * Paper : Jun Hong, **Seokwoo Jung**, Chanyoung Jung, Jiwon Jung, David Hyunchul Shim, "A general‐purpose task execution framework for manipulation mission of the 2017 Mohamed Bin Zayed International Robotics Challenge", Journal of Field Robotics, 2019
     * Documentary : KBS 길에서 만난 과학 [4회](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_code=T2017-0125&program_id=PS-2017033216-01-000&broadcast_complete_yn=N&local_station_code=60), [5회](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_code=T2017-0125&program_id=PS-2017038870-01-000&broadcast_complete_yn=N&local_station_code=60#more), [6회](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_code=T2017-0125&program_id=PS-2017038906-01-000&broadcast_complete_yn=N&local_station_code=60), [7회](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_code=T2017-0125&program_id=PS-2017042993-01-000&broadcast_complete_yn=N&local_station_code=60)
+    * Source code : github repo [link](https://github.com/Jun-Hong-7794/Eurecar-URV)
     
