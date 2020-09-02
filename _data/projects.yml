@@ -65,7 +65,7 @@
     * News & Press : [link1](http://news.kbs.co.kr/news/view.do?ncd=3369300), [link2(Discovery channel canada)](https://ko-kr.facebook.com/KAIST.official/videos/1540370752676543/)
     * I presented our self-driving car research achievements at [NVIDIA Deep Learning Day 2017](https://www.nvidia.com/ko-kr/deep-learning-day/agenda/).
     <div align="center">
-      <img src="/images/nvidia_deeplearning_day2017.png" width="60%">
+      <img src="/images/nvidia_deeplearning_day2017.png" width="50%">
     </div>
     
 - layout: top-middle
@@ -82,7 +82,7 @@
     I developed self-navigating algorithm using lidars, and also developed visual servoing & valve searching algorithms by using DNN object detection.
     In MBZIRC 2017, 45 finalists were chosen from over 316 teams from 47 countries. Our team ranked fourth in total score in the challenge 2, and successfully completed all UGV missions in the grand challenge.
     <div align="center">
-      <img src="/images/challenge2_score.jpg" width="60%">
+      <img src="/images/challenge2_score.jpg" width="50%">
     </div>
     
     * Paper : Jun Hong, **Seokwoo Jung**, Chanyoung Jung, Jiwon Jung, David Hyunchul Shim, "A general‐purpose task execution framework for manipulation mission of the 2017 Mohamed Bin Zayed International Robotics Challenge", Journal of Field Robotics, 2019
