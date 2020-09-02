@@ -7,9 +7,9 @@
       <img src="/images/ld_highway.JPG" width="80%">
     </div>
     
-    We proposed fast and robust lane detection method based on an instance segmentation approach. Our algorithm achieved global rank 3 on the Tusimple Lane Detection Benchmark([link](https://paperswithcode.com/sota/lane-detection-on-tusimple)) and real-time performance on mobile platform.
-    Our paper has been accepted in [ECCV 2020 Workshop on Perception for Autonomous Driving](https://sites.google.com/view/pad2020).
-    We implemented GPU/DSP/NPU runtime based DNN application by using <mark>Android</mark>, <mark>C++JNI</mark>, <mark>OpenCL</mark> and Snapdragon Neural Processing Engine SDK(<mark>SNPE</mark>).
+    I proposed fast and robust lane detection method based on an instance segmentation approach. This method achieved global rank 3 on the Tusimple Lane Detection Benchmark([link](https://paperswithcode.com/sota/lane-detection-on-tusimple)) and real-time performance on mobile platform.
+    My paper has been accepted in [ECCV 2020 Workshop on Perception for Autonomous Driving](https://sites.google.com/view/pad2020).
+    I implemented GPU/DSP/NPU runtime based DNN application by using <mark>Android</mark>, <mark>C++JNI</mark>, <mark>OpenCL</mark> and Snapdragon Neural Processing Engine SDK(<mark>SNPE</mark>).
     
     * Paper: **Seokwoo Jung**, Sungha Choi, Mohammad A. Khan, Jaegul Choo, "Towards Lightweight Lane Detection by Optimizing Spatial Embedding". arxiv [link](https://arxiv.org/abs/2008.08311)
     * 3-minute presentation video : [link](https://www.youtube.com/watch?v=2lrtB-NBw2E)
