@@ -7,7 +7,7 @@
       <img src="/images/ld_highway.JPG" width="80%">
     </div>
     
-    I proposed fast and robust lane detection method based on an instance segmentation approach. This method achieved global rank 3 on the Tusimple Lane Detection Benchmark([link](https://paperswithcode.com/sota/lane-detection-on-tusimple)) and real-time performance on mobile platform.
+    I proposed fast and robust lane detection method based on an instance segmentation approach. This method achieved global rank 3 on the Tusimple Lane Detection Benchmark([link](https://paperswithcode.com/sota/lane-detection-on-tusimple)) and also can run at real-time speed on mobile phone.
     My paper has been accepted in [ECCV 2020 Workshop on Perception for Autonomous Driving](https://sites.google.com/view/pad2020).
     I implemented GPU/DSP/NPU runtime based DNN application by using <mark>Android</mark>, <mark>C++JNI</mark>, <mark>OpenCL</mark> and Snapdragon Neural Processing Engine SDK(<mark>SNPE</mark>).
     
