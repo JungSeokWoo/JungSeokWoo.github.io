@@ -41,7 +41,7 @@
       <img src="/images/eurecar.jpg" width="80%">
     </div>
     
-    I was a lead perception engineer of 'Eurecar', an autonomous vehicle representing KAIST.
+    I was a lead perception engieer of 'Eurecar', a representative self-driving car of KAIST.
     I designed a recognition system using of cameras and lidars.
     We demonstrated an advanced autonomous driving by applying the SOTA deep learning.
     In more detail, I used semantic segmentation and object detection to recognize the driving environment, and convert this information into vehicle coordinates to be used for autonomous driving.
@@ -71,13 +71,13 @@
 - layout: top-middle
   name: MBZ International Robotic Challenge (MBZIRC) 2017
   quote: >
-    (2017 @ KAIST) Developed deep learning based perception system and end-to-end driving 
+    (2017 @ KAIST) Developed self-navigating, deep learning based visual servoing UGV.
   description: | # this will include new lines to allow paragraphst
     <div align="center">
-      <img src="/images/eurecar.jpg" width="80%">
+      <img src="/images/mbzirc_KAIST.jpg" width="80%">
     </div>
     
-    I was a lead perception engineer of 'Eurecar', an autonomous vehicle representing KAIST.
+    I was a lead perception engineer of KAIST's team for MBZIRC 2017 Challenge 2.
     I designed a recognition system using of cameras and lidars.
     By applying SOTA deep learning algorithms to autonomous vehicles, at the time, 
     it was possible to demonstrate a very advanced level of autonomous driving than other universities.
