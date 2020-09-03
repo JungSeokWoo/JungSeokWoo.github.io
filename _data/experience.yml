@@ -6,7 +6,7 @@
   quote: >
    Unmanned System Research Group
   description: | # this will include new lines to allow paragraphs
-    Designed & developed DNN-based perception system for KAIST Autonomous vehicle ‘Eurecar’. Developed perception algorithms for drones & mobile robots.
+    Designed and developed DNN-based perception system for the KAIST autonomous vehicle 'Eurecar'. Developed perception algorithms for mobile robots.
 
 - layout: left
   company: LG Electronics
