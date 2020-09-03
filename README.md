@@ -1,3 +1,1 @@
-# seokwoo-jung.github.io
-
-My CV website [link](https://seokwoo-jung.github.io/)
+# [seokwoo-jung.github.io](https://seokwoo-jung.github.io/)
