@@ -35,7 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  I am ready to dedicate myself on autonomous driving research.
+  I am ready to dedicate myself to research for autonomous driving.
 
 # Footer
 footer_show_references: true
